@@ -50,6 +50,9 @@ A domain is the human-readable address used to access a website.
 
 Ex: **www.example.com**
 
+![Website Publishing Lifecycle](./images/github1.png)
+![Website Publishing Lifecycle](./images/github2.png)
+
 ---
 
 ## What is SEO?
