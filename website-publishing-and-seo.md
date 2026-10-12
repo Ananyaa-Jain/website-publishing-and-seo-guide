@@ -62,12 +62,14 @@ SEO stands for Search Engine Optimization.
 It means improving your website so search engines can understand its content and people can find it through relevant searches.
 
 SEO does not mean adding a few files and automatically reaching the first position on Google. It is an ongoing process of making your pages accessible, useful, relevant, and trustworthy.
+![Website Publishing Lifecycle](./images/github3.png)
 
 ## sitemap.xml — URL discovery
 
 Lists the preferred public URLs you want search engines to discover. It can also provide metadata such as last modification dates.
 
 Example URL: [https://example.com/sitemap.xml](https://example.com/sitemap.xml)
+![Website Publishing Lifecycle](./images/github4.png)
 
 ## robots.txt — Crawling instructions
 
@@ -76,10 +78,14 @@ Tells compliant crawlers which URL paths they may or may not request.
 **robots.txt** is a text file placed at the root of your website that tells web crawlers which parts of your website they are allowed or asked not to crawl.
 
 Example URL: [https://example.com/robots.txt](https://example.com/robots.txt)
+![Website Publishing Lifecycle](./images/github5.png)
+![Website Publishing Lifecycle](./images/github6.png)
 
 ## What is a canonical URL?
 
 A canonical URL is the preferred version of a webpage when the same or very similar content is accessible through multiple URLs.
+![Website Publishing Lifecycle](./images/github7.png)
+![Website Publishing Lifecycle](./images/github8.png)
 
 ## What is Googlebot?
 
@@ -108,5 +114,5 @@ It is the page Google displays after a user submits a search query.
 ## What is a search snippet?
 
 A search snippet is the short description that may appear below a result's title and URL.
-
+![Website Publishing Lifecycle](./images/github9.png)
 Google generates snippets automatically, often from the page's visible content. It may use your meta description if that description is useful for the query, but it does not have to use it.
